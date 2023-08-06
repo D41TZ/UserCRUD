@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Lucas Carnevalli Cunha",
+      "email": "lucascarnevallicunha.lcc@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Laura Carnevalli Cunha",
+      "email": "lauracarnevallicunha.lcc@gmail.com"
+    }
+  ]
+}
